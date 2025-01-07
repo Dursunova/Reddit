@@ -40,6 +40,3 @@ Reddit həm masaüstü, həm də mobil cihazlarda istifadə edilə bilən bir t�
 - *Bildirişlər*: İstifadəçilərə yeni postlar, şərhlər və cavablar barədə bildirişlər göndərilir.
 - *Axtarış Funksiyası*: Reddit-də mövcud olan hər hansı bir məzmunu axtarmaq üçün geniş axtarış imkanları təklif edilir.
 
----
-
-Reddit-in istifadəsi genişdir və müxtəlif məqsədlərə xidmət edir. İstifadəçilər, gündəlik xəbərləri izləmək, müxtəlif mövzularda müzakirələr aparmaq, suallar vermək və cavablar tapmaq, həmçinin məzmun yaratmaq üçün Reddit-i istifadə edirlər. Reddit tətbiqinin API və dizayn aspektləri, proqramçıların və tətbiq inkişaf etdiricilərinin platformada özəl tətbiqlər yaratmasını asanlaşdırır.
